@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+Lecturer @uloko100
+
 This project is an Explainable AI (XAI) Credit Risk Scoring System developed using Machine Learning techniques. The system predicts whether a customer represents a good or bad credit risk based on financial information.
 
 The project uses the German Credit Dataset and applies Explainable AI methods such as SHAP and LIME to improve transparency and interpretability of predictions.
