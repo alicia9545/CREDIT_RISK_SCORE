@@ -4,4 +4,4 @@ numpy
 scikit-learn
 matplotlib
 shap==0.45.0
-limee
+lime
