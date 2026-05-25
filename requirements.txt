@@ -3,5 +3,5 @@ pandas
 numpy
 scikit-learn
 matplotlib
-shap
-lime
+shap==0.45.0
+limee
