@@ -116,13 +116,13 @@ python -m streamlit run app.py
 
 # YouTube Demo Link
 
-[Add YouTube Demo Link Here]
+[Add YouTube Demo Link Here (https://youtube.com/@group5csc322?si=feWxkEnfiDVEYzEL)]
 
 ---
 
 # Deployment Link
 
-[Add Streamlit Deployment Link Here]
+[[Add Streamlit Deployment Link Here](https://creditriskscoregit-68pjcfxjvjcckkm8eahxsp.streamlit.app/)]
 
 ---
 
