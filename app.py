@@ -74,7 +74,7 @@ st.write(
 # --------------------------------
 # LOAD DATASET
 # --------------------------------
-data = pd.read_csv("dataset/german_credit_data.csv")
+data = pd.read_csv("german_credit_data.csv")
 
 # --------------------------------
 # ENCODE CATEGORICAL DATA
